@@ -1,0 +1,19 @@
+7)Reflective Questions
+
+1) Why is Apex needed if Salesforce already has Flows?
+Apex is needed for complex business logic and advanced integrations.
+
+2) When should developers prefer no-code solutions?
+Developers should use no-code solutions for simple automation and faster development.
+
+3) What problems require custom programming?
+Complex calculations, API integrations, and advanced validations require coding.
+
+4 )Why is business logic important in enterprise systems?
+Business logic ensures processes follow company rules and requirements.
+
+5) Why should developers avoid unnecessary coding?
+Too much coding increases maintenance and complexity.
+
+6) How does programming increase flexibility?
+Programming allows developers to build custom solutions without limitations.

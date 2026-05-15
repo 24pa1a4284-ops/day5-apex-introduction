@@ -1,0 +1,24 @@
+5 ) Integrated College Management System Design
+
+## CRM
+Student admission and management process.
+
+## Objects
+- Student
+- Course
+- Faculty
+
+## Relationships
+Student records are connected with Course records.
+
+## Validation
+Student email is mandatory before saving records.
+
+## Formula
+Remaining seats are calculated automatically.
+
+## Flow
+Automatic notifications are sent to students.
+
+## Apex
+Custom business rules and advanced automation are handled using Apex

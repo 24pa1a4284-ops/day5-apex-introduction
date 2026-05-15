@@ -1,0 +1,10 @@
+4 )Real Examples Where Apex Is Needed
+
+## 1. Complex Fee Calculation
+Apex is needed when fee calculations involve discounts, taxes, and scholarship conditions.
+
+## 2. External Payment Integration
+Apex is required to connect Salesforce with external payment systems or APIs.
+
+## 3. Advanced Eligibility Logic
+Apex helps create complex student eligibility rules based on marks and attendance.

@@ -1,0 +1,10 @@
+ FLOW VS APEX
+
+
+ Flow | Apex |
+
+No-code or low-code tool | Programming language |
+ Easy to build | Requires coding knowledge |
+ Best for simple automation | Best for complex logic |
+ Faster development | More flexibility |
+ Mainly used by admins | Mainly used by developers |

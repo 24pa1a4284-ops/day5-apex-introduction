@@ -1,0 +1,10 @@
+ 3)CONFIGURATION VS CODING
+
+ Configuration | Coding |
+
+Uses clicks and setup | Uses programming |
+ Easier to maintain | More customizable |
+Faster implementation | Better for advanced requirements |
+ Limited flexibility | High flexibility |
+
+

@@ -1,0 +1,13 @@
+6) Pseudocode Examples
+
+## Example 1
+IF seats are full  
+THEN block registration
+
+## Example 2
+IF attendance < 75%  
+THEN notify student
+
+## Example 3
+IF fee is unpaid  
+THEN prevent exam registration

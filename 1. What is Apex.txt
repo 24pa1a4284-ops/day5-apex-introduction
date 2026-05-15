@@ -1,0 +1,4 @@
+ 1. What is Apex?
+ A)Apex is a programming language developed by Salesforce.
+ It is used to create custom business logic, automation, database operations, 
+and integrations inside Salesforce applications.
